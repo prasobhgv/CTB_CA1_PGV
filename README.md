@@ -1,2 +1,9 @@
-# CTB_CA1_PGV
- CA_One-CTB - (B9MG119_2223_TMD1S)
+
+# CLOUD STRATEGY FOR SMALL/ MEDIUM BUSINESSES
+
+## ** CA_One B9MG119 - * Cloud Technologies for Business CA_One Documentation. * **
+
+
+> blockquote
+  - SUBMITTED BY : * PRASOBH G V *
+  - Word Count   : * 750 *
