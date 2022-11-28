@@ -15,6 +15,6 @@
 
 -----------------------------------------------
 
-Link [MD Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+Link [Cloud Computing For Small and Medium Businesses](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6470904)
 
 <img width="150" height="150" alt="CLOUD" src="https://www.eginnovations.com/blog/wp-content/uploads/2021/09/Cloud-Computing.jpg">
